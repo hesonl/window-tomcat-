@@ -1,0 +1,2 @@
+# window-tomcat-
+一个window监控tomcat的脚本，当实际生产环境中服务器宕机或者其他原因导致tomcat挂掉时候通过脚本可以重新启动项目
